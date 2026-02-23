@@ -44,7 +44,7 @@ All of this was on my mind as I watched the keynote by Jon Seager, the VP of Eng
 
 "Visionary and yet deeply practical" is pretty much the textbook description of what we need to cross from *early adopters* to *early majority*. We need folks who care first and foremost about delivering the right results, but are open to new ideas that might help them do that better; folks who can stand on both sides of the chasm at once.
 
-Jon described how Canonical focuses their own development on a small set of languages: Python, C/C++, and Go, and how they had recently brought in Rust and were using it as the language of choice for new [foundational efforts](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/), replacing C, C++, and (somewhat surprisingly) Python. 
+Jon described how Canonical focuses their own development on a small set of languages: Python, C/C++, and Go, and how they had recently brought in Rust and were using it as the language of choice for new [foundational efforts](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/), replacing C, C++, and (some uses of) Python. 
 
 ## Ubuntu is building the bridge across the chasm
 
