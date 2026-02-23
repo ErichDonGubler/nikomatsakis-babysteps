@@ -6,6 +6,10 @@ enableEmoji = true
 [params]
 description = "This blog is where I post up various half-baked ideas that I have."
 
+[params.author]
+name = "Niko Matsakis"
+email = "rust@nikomatsakis.com"
+
 [minify.tdewolff.html]
 keepWhitespace = false
 
